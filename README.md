@@ -1,6 +1,8 @@
-# vue3-ts-vite-starter-template
+# vue3-vite-tailwind-boilderpolate
 
-A single page app [Vite](https://vitejs.dev) starter template, created to easily bootstrap Vue.js 3 apps.
+Forked From [here](https://github.com/kouts/vue3-ts-vite-starter-template)
+
+A single page app [Vite](https://vitejs.dev) starter template, created to easily tailwind Vue.js 3 apps.
 
 **Features**
 
